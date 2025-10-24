@@ -6,11 +6,17 @@
 
 html {
   font-family: 'Open Sans', sans-serif;
+  background-color: #edecf1;
 }
 
 .container {
-  max-width: 26rem;
+  max-width: 20rem;
   margin-right: auto;
   margin-left: auto;
+  text-align: center;
 }
 
+h1 {
+  margin: 2rem 0;
+  color: #4e6376;
+}
